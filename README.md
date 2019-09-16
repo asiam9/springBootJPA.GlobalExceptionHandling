@@ -1,6 +1,7 @@
 # springBootJPA.GlobalExceptionHandling
 This project learn you how to how to connect with JPA and Handling global Exception with YAML configuration
 # Below are the yaml configuration for datasource and jpa
+```yaml
 spring:
   com:
     sanjay:
@@ -19,3 +20,4 @@ spring:
 name: springJPA-YAML
 server:
   port: 8083
+```

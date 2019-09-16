@@ -18,4 +18,4 @@ spring:
     hibernate.naming.physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
 name: springJPA-YAML
 server:
-  port: 8082
+  port: 8083
